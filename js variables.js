@@ -30,7 +30,7 @@
 // var n="hello"
 // console.log(n)
 
-// mostly we will use "let" and "const" as variable names 
+// mostly "let" and "const" as variable names are used
 
 // we can not re-define a variable using "let" keyword, one it is declared 
 // we cannot use let n again to declare a variable 
@@ -40,9 +40,9 @@
 
     // let n=50
 
-// var varible can be called in and outside of the function avriable scope 
+// var varible can be called in and outside of the function variable scope 
 
-// let variable cannot be called out side of the function variable scope 
+// let variable cannot be called outside of the function variable scope 
 
 // {
 //     var a=56
@@ -100,39 +100,3 @@
 // console.log(w)
 
 // a varible can be called inside a string and the result will be converted into string
-
-// There are two types of data types in Javascript
-// 1. Premitive
-// 2. Non-Premitive
-
-// Primitive data types are stored directly in the memory and are immutable
-
-// Primitive data type examples
-// 1.Number
-// 2.String
-// 3.Boolean
-// 4.null 
-// 5.undefined
-// 6.Symbol
-// 7.bigint
-
-// Non-Primitive data types are stored in the memory and are mutable
-
-// Examples
-
-// 1. Object
-// 2. Array
-
-
-// Datatype of a variable can be found using "typeof"
-
-// let num=20;
-// console.log(num)
-// console.log(typeof num);
-
-// // let num2='20'
-// // console.log(typeof num2)
-// let num2=20.5
-
-// console.log(num2, typeof num2)
-
